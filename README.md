@@ -5,5 +5,4 @@ Welcome to **CouponsCluster**– your source for curated deals, promo codes, and
 
 ## 🔗 Visit Our Website
 
-Check out the latest coupons and offers at [CouponsCluster](https://couponscluster.com/)
-
+Check out the latest coupons and offers at [CouponsCluster](https://www.couponscluster.com)
