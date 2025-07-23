@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# CouponsCluster
 
 Welcome to **CouponsCluster**– your source for curated deals, promo codes, and discounts across thousands of online stores.
 
